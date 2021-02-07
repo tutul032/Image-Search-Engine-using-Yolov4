@@ -9,4 +9,4 @@ https://drive.google.com/file/d/1KcQ3r5IOzUBKiQ8Pg0BlwFhmlJ6GMJnS/view?usp=shari
 
 Please download the weights "yolo-obj_5000.weights" and place it into the yolo-coco folder then run the yolo.py. If you want to detect other images please change the given_S folder images and line 31 from yolo.py.
 # Result
-![image](https://github.com/tutul032/Image-search-engine-using-yolov4/blob/main/yolov4.jpg)
+![image](https://github.com/tutul032/Yolov4-Image-Search-Engine-for-car-brand/blob/main/yolov4.jpg)
