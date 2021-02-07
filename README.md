@@ -1,4 +1,4 @@
-# Yolov4-Image-Search-Engine-for-car-brand
+# Image-Search-Engine-for-similar-car-detection-using-Yolov4
 Dependencies:
 1. scipy
 2. OpenCV 4.5.1
